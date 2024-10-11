@@ -2,7 +2,7 @@ Overview
 
 1. HTML Structure
 
-	•	Constructed a foundational HTML document adhering to web standards.
+	•	Constructed HTML document.
 
 	•	Implemented an element for displaying shuffling text, with its ID referenced in the JavaScript for dynamic content manipulation.
 
